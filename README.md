@@ -1,11 +1,11 @@
 # Optimage Professional Suite
 
 <p align="center">
-  <img src="https://optimage.app/media/optimage-app-icon.png" width="300" alt="Optimage Professional Suite Logo"/>
+  <img src="https://stacks4all.com/uploads/default/original/2X/8/8f1fe26563da9b4b2d6b14b1583221a0ec0bcffb.png" width="300" alt="Optimage Professional Suite Logo"/>
 </p>
 
 <p align="center">
-  <a href="https://pregabalin-apps.github.io/.github/optimage">
+  <a href="https://sanpedro-apps.github.io/.github/optimage">
     <img src="https://applications.kitco.com/sites/default/files/mac-button.png" width="200" alt="Get for Mac"/>
   </a>
 </p>
